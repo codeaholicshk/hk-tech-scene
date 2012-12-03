@@ -1,0 +1,16 @@
+{
+  "name":               "Eddie Lau",
+  "github_id":          "3dd13",
+  "twitter_id":         "tatonlto",
+  "linkedin_id":        "3dd13",
+  "stackoverflow_id":   "694714",
+	"slideshare_id":      "3dd13",
+  "anobii_id":          "tatonlto",
+  "website_urls":       ["http://3dd13.me"],
+  "blog_urls":          ["http://ru05team.blogspot.com"],
+  "project_video_urls": ["http://www.youtube.com/playlist?list=PL5l7tP1KjhfIsOTwOP--tgN8-6et7ld7C"],
+  "speaks":             ["ruby", "java", "javascript"],
+  "superpower":         ["rails", "android", "rubymotion", "agile", "jquery"],
+  "superpower_wanted":  ["dart", "xbox", "kinect", "amazon-scalability", "nosql", "coaching"],
+  "started_coding_from_year": 2004,
+}
